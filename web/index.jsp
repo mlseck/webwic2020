@@ -84,28 +84,32 @@
         <div class="row">
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="100">
-            <img src="assets/img/partners/wiccapital.png" class="img-fluid" alt="">
+            <a href="https://wic-capital.net/" target="_blank"><img src="assets/img/partners/wiccapital.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="200">
-            <img src="assets/img/partners/dalberg.png" class="img-fluid" alt="">
+            <a href="https://dalberg.com/" target="_blank"><img src="assets/img/partners/dalberg.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="300">
-            <img src="assets/img/partners/usaid.png" class="img-fluid" alt="">
+            <a href="https://www.usaid.gov/" target="_blank"><img src="assets/img/partners/usaid.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="400">
-            <img src="assets/img/partners/fmo.png" class="img-fluid" alt="">
+            <a href="https://www.fmo.nl/" target="_blank"><img src="assets/img/partners/fmo.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="500">
-            <img src="assets/img/partners/der.png" class="img-fluid" alt="">
+            <a href="https://der.sn/" target="_blank"><img src="assets/img/partners/der.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="600">
-            <img src="assets/img/partners/ada.png" class="img-fluid" alt="">
+            <a href="https://www.ada-microfinance.org/fr" target="_blank"><img src="assets/img/partners/ada.png" class="img-fluid" alt=""></a>
           </div>
+
+         <%-- <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="600">
+            <a href="https://sn.ambafrance.org/" target="_blank"><img src="assets/img/partners/ambfrance.jpg" class="img-fluid" alt=""></a>
+          </div>--%>
 
         </div>
 
@@ -151,7 +155,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Les investissements de WIC Capital illustrent notre confiance dans le potentiel des femmes entrepreneures sénégalaises.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonial-evelyne.jpg" class="testimonial-img" alt="">
@@ -280,7 +284,7 @@
         <div class="text-center" data-aos="zoom-in">
           <h3>Conditions d'adhésion</h3>
           <p> Pour rejoindre le WIC Sénégal, les membres contribuent une mise de départ initiale de 5.000.000 F CFA investis dans la Bourse Régionale des Valeurs Mobilières (BRVM) à travers CGF Bourse. Les membres du WIC contribuent également 130.000 F CFA en cotisation mensuelle dont 100.000 F CFA sont investis dans la BRVM à travers CGF Bourse et 30.000 F CFA sont alloués au fonds de fonctionnement du club. </p>
-          <p> Pour plus d’informations concernant le WIC Sénégal ou pour nous rejoindre, veuillez nous contacter par email à contact@wicsenegal.com ou par téléphone au 76 569 83 97.</p>
+          <p> Pour plus d’informations concernant le WIC Sénégal ou pour nous rejoindre, veuillez nous contacter par email à contact@wicsenegal.com ou par téléphone au +221 76 569 83 97.</p>
           <a class="cta-btn" href="#contact">Rejoignez-nous</a>
         </div>
 
@@ -385,106 +389,200 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-lg-4">
             <div class="section-title" data-aos="fade-right">
               <h2>Gouvernance</h2>
               <p>WIC Sénégal est gouverné par un comité élu par l'ensemble des membres du WIC pour une durée de deux ans renouvelables. <br><br>
-                Le comité est à tout moment composé d'un minimum de six membres; il s'agit des trois postes clés de l'association (Présidence, Secrétariat Général, Trésorerie) ainsi que de leurs suppléants respectifs. </p>
+                Le comité est à tout moment composé de huit membres; il s'agit des quatre postes clés de l'association (Présidence, Secrétariat Général, Trésorerie, Cellule Communication) ainsi que de leurs suppléants respectifs. </p>
+            </div>
+        </div>
+
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/fnn.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Fatou Niang Ndiaye</h4>
+                <span>Présidente</span>
+                <p>
+                  Fatou Niang Ndiaye est la Directrice Générale de SOPASEN
+                </p>
+                <div class="social">
+<%--                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                  <a href="https://www.linkedin.com/in/fatou-niang-29b9071/?originalSubdomain=sn"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="col-lg-8">
-            <div class="row">
 
-              <div class="col-lg-4">
-                <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                  <div class="pic"><img src="assets/img/team/nms.png" class="img-fluid" alt=""></div>
-                  <div class="member-info">
-                    <h4>Madji Sock</h4>
-                    <span>Présidente</span>
-                    <p>Consultante en stratégie <br> Directrice de Dalberg Dakar</p>
-                    <div class="social">
-                      <!--<a href=""><i class="ri-twitter-fill"></i></a>
-                      <a href=""><i class="ri-facebook-fill"></i></a>
-                      <a href=""><i class="ri-instagram-fill"></i></a> -->
-                      <a href="" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                    </div>
-                  </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/fn.jpeg" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Francine Ndong</h4>
+                <span>Vice Présidente</span>
+                <p>
+                  Francine est Économiste en Développement à l'Organisation Internationale du Travail
+                </p>
+                <div class="social">
+<%--                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                  <a href="https://www.linkedin.com/in/francinendong/"><i class="icofont-linkedin"></i></a>
                 </div>
               </div>
-
-              <div class="col-lg-4 mt-4 mt-lg-0">
-                <div class="member" data-aos="zoom-in" data-aos-delay="200">
-                  <div class="pic"><img src="assets/img/team/ad.jpg" class="img-fluid" alt=""></div>
-                  <div class="member-info">
-                    <h4>Awa Dia</h4>
-                    <span>Vice-Présidente</span>
-                    <p>Cadre supérieur en Communication</p>
-                    <div class="social">
-                      <a href="https://www.linkedin.com/in/awa-dia-97b409106/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 mt-4 mt-lg-0">
-                <div class="member" data-aos="zoom-in" data-aos-delay="200">
-                  <div class="pic"><img src="assets/img/team/ads.jpg" class="img-fluid" alt=""></div>
-                  <div class="member-info">
-                    <h4>Astou Diop</h4>
-                    <span>Secrétaire Générale</span>
-                    <p>Directrice FGI (Finance Gestion & Intermédiation)</p>
-                    <div class="social">
-                      <a href="https://www.linkedin.com/in/astou-diop/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 mt-4">
-                <div class="member" data-aos="zoom-in" data-aos-delay="300">
-                  <div class="pic"><img src="assets/img/team/tcs.jpg" class="img-fluid" alt=""></div>
-                  <div class="member-info">
-                    <h4>Thiaba Camara Sy</h4>
-                    <span>Administrateur de sociétés</span>
-                    <p>Expert-comptable <br> PCA WIC Capital</p>
-                    <div class="social">
-                      <a href="https://www.linkedin.com/in/thiaba-camara-sy/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 mt-4">
-                <div class="member" data-aos="zoom-in" data-aos-delay="300">
-                  <div class="pic"><img src="assets/img/team/yk.jpeg" class="img-fluid" alt=""></div>
-                  <div class="member-info">
-                    <h4>Yacine Kamara</h4>
-                    <span>Secrétaire Générale Adjointe</span>
-                    <p>Directrice RH Groupe Alpha Sud</p>
-                    <div class="social">
-                      <a href="https://www.linkedin.com/in/yacine-kamara-44305053/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-4 mt-4">
-                <div class="member" data-aos="zoom-in" data-aos-delay="400">
-                  <div class="pic"><img src="assets/img/team/pnt.jpg" class="img-fluid" alt=""></div>
-                  <div class="member-info">
-                    <h4>Penda Ndiaye Thiaw</h4>
-                    <span>Trésorière Adjointe</span>
-                    <p>Cadre supérieur en Audit</p>
-                    <div class="social">
-                      <a href="https://www.linkedin.com/in/penda-ndiaye-a8855818/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
             </div>
-
           </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/ada.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Astou Dia</h4>
+                <span>Secrétaire Générale</span>
+                <p>
+                  Astou Dia est Fondatrice de A to A Partners et cofondatrice d'Impact Hub Abidjan
+                </p>
+                <div class="social">
+<%--                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                  <a href="https://www.linkedin.com/in/astou-dia-3568781/"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/ssd.png" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Stéphanie Sarr Dioh</h4>
+                <span>Secrétaire Générale Adjointe</span>
+                <p>
+                  Stéphanie Sarr Dioh est Directrice Produit du Groupe WAVE
+                </p>
+                <div class="social">
+                  <%--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                  <a href="https://www.linkedin.com/in/stephanie-s-30415427/"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/fsd.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Fatou Soumaré Diop</h4>
+                <span>Trésorière</span>
+                <p>
+                  Fatou Soumaré Diop est Directrice Trésorerie de la Banque Atlantique du Sénégal
+                </p>
+                <div class="social">
+                  <%--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                  <a href="https://www.linkedin.com/in/fatou-soumare-456b3b6b/"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/mls.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Mberry L Seck</h4>
+                <span>Trésorière Adjointe</span>
+                <p>
+                  Mberry Seck est Consultante en stratégie de développement à Dalberg Advisors
+                </p>
+                <div class="social">
+                  <%--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                  <a href="https://www.linkedin.com/in/mberryseck/"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/ad.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Awa Dia</h4>
+                <span>Chargée de Communication</span>
+                <p>
+                  Awa Dia est spécialiste en Communication, Marketing et Management de Projets
+                </p>
+                <div class="social">
+                  <%--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                  <a href="https://www.linkedin.com/in/awa-dia-97b409106/"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/mtm.png" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Maïmouna Touré Mbacké</h4>
+                <span>Chargée de Communication Adjointe</span>
+                <p>
+                  Maïmouna Touré Mbacké est Consultante en stratégie de développement
+                </p>
+                <div class="social">
+                  <%--<a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                  <a href="https://www.linkedin.com/in/mounambacke/"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <br>
+                <h4>Prénom Nom</h4>
+                <span>Manager du WIC</span>
+                <p>
+                  Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                </p>
+                <div class="social">
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href=""><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </div>
